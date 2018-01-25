@@ -7,8 +7,12 @@
 * [Use pages to distribute your work](use_pages_to_distribute_your_work.md)
 * [Structuring symbols that will be part of the UI Kit](structuring_symbols_that_will_be_part_of_the_ui_ki.md)
 * [Branch Naming](branch_naming.md)
+  * [UPDATE prefix](branch_naming/nested-test.md)
+  * [BETA prefix](branch_naming/beta-prefix.md)
+  * [PITCH prefix](branch_naming/pitch-prefix.md)
 * [Branch Statuses](branch_statuses.md)
 * [Committing](committing.md)
 * [Commenting on Branches](commenting_on_branches.md)
 * [Merging Branches into the Master Branch](merging_branches_into_the_master_branch.md)
 * [From Twitter’s approach to experimentation in their design system…](from_twitters_approach_to_experimentation_in_their.md)
+
