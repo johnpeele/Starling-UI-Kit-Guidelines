@@ -1,5 +1,8 @@
 ## From Twitter’s approach to experimentation in their design system… {#from-twitter-s-approach-to-experimentation-in-their-design-system}
 
-https://medium.com/twitter-design-research/looking-to-horizon-why-we-built-a-design-system-841d0a9125be
+[https://medium.com/twitter-design-research/looking-to-horizon-why-we-built-a-design-system-841d0a9125be](https://medium.com/twitter-design-research/looking-to-horizon-why-we-built-a-design-system-841d0a9125be)
 
-**_Knowing how and when to evolve an existing component or interaction pattern can often be unclear. We are solving this by identifying a sequential exploration phase within our product design process: Utilization, Adaptation, then Creation._**
+_**Knowing how and when to evolve an existing component or interaction pattern can often be unclear. We are solving this by identifying a sequential exploration phase within our product design process: Utilization, Adaptation, then Creation.**_
+
+![](/assets/Utilize-Adapt-Create.png)
+
