@@ -2,7 +2,7 @@
     "plugins": ["heading-anchors", "anchors"],
     "pluginsConfig": {
         "theme-default": {
-          "showLevel": true
+          
         }
     }
 }
