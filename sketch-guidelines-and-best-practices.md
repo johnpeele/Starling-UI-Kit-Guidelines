@@ -1,5 +1,7 @@
 # Sketch Guidelines & Best Practices
 
+These are the guidelines and best practices for using Sketch in general, but more specifically as it pertains to the UI Kit.
+
 ## Naming conventions {#sketch-naming}
 
 \(Even though Abstract negates the need for versioning info in our file names, we still need a nice flexible naming pattern here\)
