@@ -1,5 +1,7 @@
 # Abstract Guidelines & Best Practices
 
+These are the guidelines and best practices for using Abstract in general, but more specifically as it pertains to the UI Kit.
+
 ## Name your branches consistenly {#abstract-name}
 
 When branching from the UI Kit’s master, you should use one of the below tags as a prefix to your branch name. Doing this will let the rest of the team know what the purpose of the branch is, and connect it with the associated stage of work.
