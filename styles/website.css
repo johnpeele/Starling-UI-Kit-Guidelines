@@ -63,7 +63,13 @@
 }
 
 .markdown-section h1 {
-  font-size: 4em;
+  font-size: 64px;
   font-weight: 900;
+  letter-spacing: -1px;
+}
+
+.markdown-section p:first-of-type {    
+  font-size: 21px;    
+  line-height: 33px;    
 }
 
