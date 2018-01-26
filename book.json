@@ -1,8 +1,11 @@
 {
-    "plugins": ["heading-anchors", "anchors"],
-    "pluginsConfig": {
-        "theme-default": {
+  "plugins": ["anchors", "footer", "heading-anchors"],
+  "pluginsConfig": {
+    "theme-default": {
           
-        }
+    },
+    "layout": {
+      "footerPath" : "layouts/footer.html"
     }
+  }
 }
