@@ -1,5 +1,5 @@
 {
-  "plugins": ["anchors", "footer", "heading-anchors"],
+  "plugins": ["anchors", "footer"],
   "pluginsConfig": {
     "theme-default": {
     
