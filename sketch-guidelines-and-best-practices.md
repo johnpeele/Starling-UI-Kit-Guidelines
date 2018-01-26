@@ -1,6 +1,6 @@
 # Sketch Guidelines & Best Practices
 
-## Name your files consistenly {#name-your-files-consistenly}
+## Name your files consistenly {#sketch-name}
 
 \(Even though Abstract negates the need for versioning info in our file names, we still need a nice flexible naming pattern here\)
 
@@ -10,13 +10,13 @@ ComputedFields-FormulaBuilder.sketch
 
 ---
 
-## Label layers in a meaningful way {#label-layers-in-a-meaningful-way}
+## Label layers in a meaningful way {#sketch-label}
 
 How many layers does your typical Sketch file contain that are named “Rectangle 2 Copy 5” or “Type something”? And how often did you struggle to find a certain layer in a cluttered artboard because they were basically all named the same? Do yourself and your colleagues a favor and clean up your layers.
 
 ---
 
-## Organize your artboards {#organize-your-artboards}
+## Organize your artboards {#sketch-organize}
 
 Because Sketch exports artboards nicely into files or pushes them directly into our prototyping platform, [InVision](https://acl.invisionapp.com), it’s a very good idea to keep their naming consistent, transparent and in a sequential order.
 
@@ -28,17 +28,17 @@ The [Artboard Manager](#) plugin will take care of this for us 😃
 
 ---
 
-## Use pages to distribute your work {#use-pages-to-distribute-your-work}
+## Use pages to distribute your work {#sketch-pages}
 
 \(Still not sure about this recommendation. Pages can appear quite hidden in the Sketch UI\)
 
 ---
 
-## Structuring symbols that will be part of the UI Kit {#structuring-symbols-that-will-be-part-of-the-ui-kit}
+## Structuring symbols that will be part of the UI Kit {#sketch-symbols}
 
 When building symbols for the UI Kit, there’s a few minimum requirements you need to meet to ensure that your symbol will be usable by the rest of the team. If your symbols aren’t built and named correctly, your branch might not be merged with the master branch until it’s fixed.
 
-### **Naming your Symbols**
+### **Naming your Symbols** {#sketch-symbols-naming}
 
 It’s important to make sure your symbols will fit in with the UI Kit’s existing items. The easiest way to do that is to make sure you use the right naming convention. The following naming convention should be followed:
 
@@ -88,11 +88,11 @@ When you are building a component for the UI Kit, you need to consider what your
 
 You need to ensure that you include all the variations of your new component so that UX devs and other designers know how it will work in all situations. Look to existing naming patterns to find the best name for your state\(s\), this will help to establish guidelines over time.
 
-### **Master Symbols**
+### **Master Symbols** {#sketch-symbols-master}
 
 When building these different states, consider using a Master symbol that allows users to easily apply different states to your component. A Master symbol is a parent symbol containing multiple Nested symbols, each Nested symbol represents a state of the Master symbol. Read the inspiration article by Andrew Couldwell for further instruction and an example .sketch file.
 
-### **Symbol Overrides**
+### **Symbol Overrides** {#sketch-symbols-overrides}
 
 Finally, make sure that you name any overrides in your symbols in a logical way - remember that other designers may be looking at your component 6 months from now, trying to determine how to use it.
 

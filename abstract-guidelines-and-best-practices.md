@@ -1,6 +1,6 @@
 # Abstract Guidelines & Best Practices
 
-## Branch Naming {#branch-naming}
+## Branch Naming {#abstract-branch-naming}
 
 When branching from the UI Kit’s master, you should use one of the below tags as a prefix to your branch name. Doing this will let the rest of the team know what the purpose of the branch is, and connect it with the associated stage of work.
 
@@ -38,7 +38,7 @@ This tag could be **a continuation of BETA work** or it could also be the **begi
 
 ---
 
-## Branch Statuses {#branch-statuses}
+## Branch Statuses {#abstract-branch-statuses}
 
 Using Abstract’s built in status control is a great way to communicate to the rest of the team the status of your branch.
 
@@ -50,13 +50,13 @@ Using Abstract’s built in status control is a great way to communicate to the 
 
 ---
 
-## Committing {#committing}
+## Committing {#abstract-committing}
 
 Unlike Github, we don’t have ways to handle either Pull Requests or Commit message templates.
 
 ---
 
-## Commenting on Branches {#commenting-on-branches}
+## Commenting on Branches {#abstract-commenting}
 
 We have several different communication channels in use at ACL \(slack, email, invision, etc.\). With so many options to discuss new ideas, it is easy for the conversations to fragment and valuable feedback missed.
 
@@ -70,7 +70,7 @@ This isn’t a hard and fast rule - If it makes more sense to discuss a branch i
 
 ---
 
-## Merging Branches into the Master Branch {#merging-branches-into-the-master-branch}
+## Merging Branches into the Master Branch {#abstract-merging}
 
 Once a branch is merged into the master branch, all symbols will become available to the entire UX design team. Any changed symbols will be updated in all existing mockups. So it’s very important to ensure any changes merged to the master branch are:
 
