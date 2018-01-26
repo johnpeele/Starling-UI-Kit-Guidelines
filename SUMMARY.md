@@ -2,6 +2,9 @@
 
 * [Starling UI Kit Guidelines](README.md)
 * Getting Started
+* Sketch Plugins
+* Sketch Guidelines & Best Practices
+* Abstract Guidelines & Best Practices
 * [Name your files consistenly](name_your_files_consistenly.md)
 * [Label layers in a meaningful way](label_layers_in_a_meaningful_way.md)
 * [Organize your artboards](organize_your_artboards.md)
