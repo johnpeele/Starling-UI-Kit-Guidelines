@@ -1,6 +1,6 @@
 # Sketch Plugins
 
-## **Mandatory**
+## **Mandatory** {#sketch-plugins-mandatory}
 
 [Craft](https://www.invisionapp.com/craft)  
 We will use Craft, for the time being, but we are currently evaluating it’s future usage with the UI Kit.
@@ -20,7 +20,7 @@ We use this plugin to keep symbol insanity to a minimum in the Starling UI Kit `
 
 ---
 
-## **Optional, but highly recommended**
+## **Optional, but highly recommended** {#sketch-plugins-optional}
 
 [Sketch Runner](http://sketchrunner.com/)  
 A very, very useful command palette for Sketch.
@@ -30,7 +30,7 @@ Effectively naming your layers is crucial when working within a team. This plugi
 
 ---
 
-## **Symbol Organizer Settings**
+## **Symbol Organizer Settings** {#sketch-plugins-symbol-organizer}
 
 The plugin has 2 commands:
 
