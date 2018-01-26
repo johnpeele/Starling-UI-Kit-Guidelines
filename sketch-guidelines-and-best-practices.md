@@ -1,6 +1,6 @@
 # Sketch Guidelines & Best Practices
 
-## Name your files consistenly {#sketch-name}
+## Naming conventions {#sketch-naming}
 
 \(Even though Abstract negates the need for versioning info in our file names, we still need a nice flexible naming pattern here\)
 
