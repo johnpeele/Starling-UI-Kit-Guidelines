@@ -1,5 +1,7 @@
 # Experimentation in our design system…
 
+Intro paragraph here...
+
 ## Utilize -&gt; Adapt -&gt; Create
 
 [https://medium.com/twitter-design-research/looking-to-horizon-why-we-built-a-design-system-841d0a9125be](https://medium.com/twitter-design-research/looking-to-horizon-why-we-built-a-design-system-841d0a9125be)
