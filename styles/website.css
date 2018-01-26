@@ -74,3 +74,12 @@
   line-height: 33px;    
 }
 
+.markdown-section p:first-of-type::before {
+  margin-bottom: 16px;
+  content: '';
+  width: 48px;
+  height: 8px;
+  display: block;
+  background-color: #EA118D;
+}
+
