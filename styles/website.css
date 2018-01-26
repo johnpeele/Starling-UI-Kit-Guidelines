@@ -1,4 +1,5 @@
-.book-summary ul.summary li.divider {
+.book-summary ul.summary li.divider,
+.book-summary ul.summary li:not(.chapter) {
   display: none;
 }
 
