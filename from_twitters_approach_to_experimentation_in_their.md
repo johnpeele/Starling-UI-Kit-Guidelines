@@ -4,5 +4,5 @@
 
 _**Knowing how and when to evolve an existing component or interaction pattern can often be unclear. We are solving this by identifying a sequential exploration phase within our product design process: Utilization, Adaptation, then Creation.**_
 
-![](/assets/Utilize-Adapt-Create.png)
+![](/assets/utilize-adapt-create.png)
 
