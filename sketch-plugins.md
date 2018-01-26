@@ -2,14 +2,14 @@
 
 ## **Mandatory**
 
-[Craft](https://www.invisionapp.com/craft)   
+[Craft](https://www.invisionapp.com/craft)  
 We will use Craft, for the time being, but we are currently evaluating it’s future usage with the UI Kit.
 
 [Relabel Button](https://github.com/kenmoore/sketch-relabel-button)  
 Quickly change the label for a button and update dimensions without affecting padding.
 
 [Stark](http://www.getstark.co/)  
-Easily apply color blindness filters to your designs and check contrast between 2 colors.   
+Easily apply color blindness filters to your designs and check contrast between 2 colors.  
 _**\* Note: **Feel free to use any contrast checker. The requirement here is that you use some kind of contrast tool._ 😃
 
 [Artboard Manager](https://github.com/bomberstudios/artboard-manager)  
@@ -43,7 +43,5 @@ The plugin has 2 commands:
 2. Enter the following settings
 3. Click `Organize`. This will configure **and** run the plugin for the first time
 
-![](/assets/import.png)
-
-
+![](/assets/symbol-organizer-settings.png)
 
