@@ -13,5 +13,10 @@
   * [Use pages to distribute your work](sketch-guidelines-and-best-practices.md#sketch-pages)
   * [Structuring UI Kit symbols](sketch-guidelines-and-best-practices.md#sketch-symbols)
 * [Abstract Guidelines & Best Practices](abstract-guidelines-and-best-practices.md)
+  * [Name your branches consistently](abstract-guidelines-and-best-practices.md#abstract-name)
+  * [Utilize branch statuses](abstract-guidelines-and-best-practices.md#abstract-status)
+  * [Commit often](abstract-guidelines-and-best-practices.md#abstract-commit)
+  * [Comment on branches](abstract-guidelines-and-best-practices.md#abstract-comment)
+  * [Merging branches into Master](abstract-guidelines-and-best-practices.md#abstract-merging)
 * [Process for Experimentation](process-for-experimentation.md)
 
