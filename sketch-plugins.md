@@ -1,5 +1,7 @@
 # Sketch Plugins
 
+We have identified a set of mandatory and optional plugins that will make working with the UI Kit much more enjoyable.
+
 ## **Mandatory** {#sketch-plugins-mandatory}
 
 [Craft](https://www.invisionapp.com/craft)  
