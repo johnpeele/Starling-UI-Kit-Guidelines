@@ -14,6 +14,8 @@ ComputedFields-FormulaBuilder.sketch
 
 How many layers does your typical Sketch file contain that are named “Rectangle 2 Copy 5” or “Type something”? And how often did you struggle to find a certain layer in a cluttered artboard because they were basically all named the same? Do yourself and your colleagues a favor and clean up your layers.
 
+---
+
 ## Organize your artboards {#organize-your-artboards}
 
 Because Sketch exports artboards nicely into files or pushes them directly into our prototyping platform, [InVision](https://acl.invisionapp.com), it’s a very good idea to keep their naming consistent, transparent and in a sequential order.
@@ -24,9 +26,13 @@ The [Artboard Manager](#) plugin will take care of this for us 😃
 
 ![](/assets/artboard-organization.png)
 
+---
+
 ## Use pages to distribute your work {#use-pages-to-distribute-your-work}
 
 \(Still not sure about this recommendation. Pages can appear quite hidden in the Sketch UI\)
+
+---
 
 ## Structuring symbols that will be part of the UI Kit {#structuring-symbols-that-will-be-part-of-the-ui-kit}
 
