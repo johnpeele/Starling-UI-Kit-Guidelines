@@ -83,3 +83,11 @@
   background-color: #23C6BF;
 }
 
+.markdown-section a {
+  display: inline-block;
+  position: relative;
+  font-weight: bold;
+  text-decoration: none !important;
+  color: #53529F;
+}
+
