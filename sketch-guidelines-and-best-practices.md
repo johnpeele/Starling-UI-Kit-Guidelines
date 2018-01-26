@@ -33,7 +33,7 @@ The [Artboard Manager](#) plugin will take care of this for us 😃
 
 ---
 
-## Structuring symbols that will be part of the UI Kit {#sketch-symbols}
+## Structuring UI Kit symbols {#sketch-symbols}
 
 When building symbols for the UI Kit, there’s a few minimum requirements you need to meet to ensure that your symbol will be usable by the rest of the team. If your symbols aren’t built and named correctly, your branch might not be merged with the master branch until it’s fixed.
 
@@ -87,11 +87,11 @@ When you are building a component for the UI Kit, you need to consider what your
 
 You need to ensure that you include all the variations of your new component so that UX devs and other designers know how it will work in all situations. Look to existing naming patterns to find the best name for your state\(s\), this will help to establish guidelines over time.
 
-### **Master Symbols** {#sketch-symbols-master}
+### **Master symbols** {#sketch-symbols-master}
 
 When building these different states, consider using a Master symbol that allows users to easily apply different states to your component. A Master symbol is a parent symbol containing multiple Nested symbols, each Nested symbol represents a state of the Master symbol. Read the inspiration article by Andrew Couldwell for further instruction and an example .sketch file.
 
-### **Symbol Overrides** {#sketch-symbols-overrides}
+### **Symbol overrides** {#sketch-symbols-overrides}
 
 Finally, make sure that you name any overrides in your symbols in a logical way - remember that other designers may be looking at your component 6 months from now, trying to determine how to use it.
 
