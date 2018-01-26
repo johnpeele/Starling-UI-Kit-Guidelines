@@ -7,6 +7,10 @@
   border-right-color: #d7d7d7;
 }
 
+.book .book-summary .book-logo {
+  text-align: left !important;
+}
+
 .book .book-summary .book-logo img {
   width: 144px;
 }
