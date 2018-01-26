@@ -1,8 +1,8 @@
 # Summary
 
 * [Starling UI Kit Guidelines](README.md)
-* Getting Started
-* Sketch Plugins
+* [Getting Started](getting-started.md)
+* [Sketch Plugins](sketch-plugins.md)
 * Sketch Guidelines & Best Practices
 * Abstract Guidelines & Best Practices
 * [Name your files consistenly](name_your_files_consistenly.md)
@@ -16,6 +16,4 @@
 * [Commenting on Branches](commenting_on_branches.md)
 * [Merging Branches into the Master Branch](merging_branches_into_the_master_branch.md)
 * [From Twitter’s approach to experimentation in their design system…](from_twitters_approach_to_experimentation_in_their.md)
-
-
 
