@@ -7,6 +7,10 @@
   border-right-color: #d7d7d7;
 }
 
+.book .book-summary .book-logo img {
+  width: 144px;
+}
+
 #book-search-input {
   margin-bottom: 24px;
   padding: 12px 8px;
