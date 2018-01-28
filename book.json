@@ -1,6 +1,9 @@
 {
   "plugins": ["insert-logo-link"],
   "pluginsConfig": {
+  "lunr": {
+    "maxIndexSize": 200000
+  },
     "insert-logo-link": {
       "src": "assets/logo--sds@2x.png",
       "url": "http://design.acl.com"
