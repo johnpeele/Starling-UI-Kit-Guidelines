@@ -30,7 +30,7 @@ Because Sketch exports artboards nicely into files or pushes them directly into 
 
 Using horizontal rows to group related views together with a sequential naming pattern is one way to accomplish this. The designer group should decide this together…
 
-The [Artboard Manager](#) plugin will take care of this for us 😃
+The [Artboard Manager](#) plugin will take care of this for us.
 
 ![](/assets/artboard-organization.png)
 

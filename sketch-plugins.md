@@ -12,7 +12,7 @@ Quickly change the label for a button and update dimensions without affecting pa
 
 [Stark](http://www.getstark.co/)  
 Easily apply color blindness filters to your designs and check contrast between 2 colors.  
-_**\* Note: **Feel free to use any contrast checker. The requirement here is that you use some kind of contrast tool._ 😃
+_**\* Note: **Feel free to use any contrast checker. The requirement here is that you use some kind of contrast tool._
 
 [Artboard Manager](https://github.com/bomberstudios/artboard-manager)  
 Because moving Artboards manually is **so 2016.** This plugin keeps your artboards neatly arranged in columns and rows. Rearranging is simply as dragging artboards to a new position and the plugin will snap all other artboards into their new position.
