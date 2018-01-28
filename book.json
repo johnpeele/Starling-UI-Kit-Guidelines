@@ -1,15 +1,9 @@
 {
-  "plugins": ["insert-logo-link", "footer"],
+  "plugins": ["insert-logo-link"],
   "pluginsConfig": {
-    "theme-default": {
-    
-    },
     "insert-logo-link": {
       "src": "assets/logo--sds@2x.png",
       "url": "http://design.acl.com"
-    },
-    "layout": {
-      "footerPath" : "layouts/footer.html"
     }
   }
 }
