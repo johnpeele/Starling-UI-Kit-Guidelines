@@ -108,6 +108,7 @@
   font-weight: 900;
   text-transform: lowercase;
   text-align: left;
+  opacity: 1;
 }
 
 #book-search-results .search-results .has-results .search-results-item h3 {
@@ -120,4 +121,8 @@
 
 #book-search-results .search-results .has-results .search-results-item p {
   font-size: 16px;
+}
+
+#book-search-results span.search-highlight-keyword {
+  background: #6085FF;
 }
