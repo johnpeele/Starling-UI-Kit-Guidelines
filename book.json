@@ -1,5 +1,5 @@
 {
-  "plugins": ["insert-logo-link"],
+  "plugins": ["insert-logo-link", "-lunr", "-search", "search-plus-mod"],
   "pluginsConfig": {
   "lunr": {
     "maxIndexSize": 200000
