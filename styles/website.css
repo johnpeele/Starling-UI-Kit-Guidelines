@@ -104,7 +104,7 @@
 #book-search-results .search-results .search-results-title {
   margin-bottom: 50px;
   font-weight: bold;
-  font-weigth: 700;
+  font-weight: 900;
   text-transform: lowercase;
   text-align: left;
 }
@@ -113,7 +113,10 @@
   margin-bottom: 5px;
   padding-top: 10px;
   font-family: 'Lato', 'Helvetica', 'Arial', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 26px;
 }
 
+#book-search-results .search-results .has-results .search-results-item p {
+  font-size: 16px;
+}
