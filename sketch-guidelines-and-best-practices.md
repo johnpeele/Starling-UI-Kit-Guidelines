@@ -1,3 +1,10 @@
+---
+search:
+  keywords:
+    - sketch
+    - best practices
+---
+
 # Sketch Guidelines & Best Practices
 
 These are the guidelines and best practices for using Sketch in general, but more specifically as it pertains to the UI Kit.
