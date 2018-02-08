@@ -8,7 +8,7 @@ Getting the UI Kit integrated into your design workflow is relatively simple.The
 2. The UI Kit is stored in the UX design team's shared repository, which is managed by [Abstract](https://www.goabstract.com/). Ensure you have Abstract installed on your computer and that you are a part of the ACL organization in Abstract.  
    _Note: licenses and access to the above software should be arranged during your onboarding, if not please ask a senior member of the ux team. _
 
-3. Once you have abstract installed, ensure that you have the **Starling Design System** project downloaded and sync'd. 
+3. Once you have abstract installed, ensure that you have the **Starling Design System** project downloaded and sync'd.
 
 4. The UI Kit depends on a few vital Sketch plugins to function properly. Before using the UI Kit, make sure you have the following installed in Sketch:
 
@@ -18,6 +18,7 @@ Getting the UI Kit integrated into your design workflow is relatively simple.The
 
    3. [Artboard Manager](#). This is used to automatically preserver the order and spacing between artboards in the UI Kit.
 
-5. 
+These are the minimum required plugins and programs for use of the UI Kit. We've also included suggestions for other plugins that will help you design for GRC. 
+
 
 
