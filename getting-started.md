@@ -1,6 +1,6 @@
 # Getting Started
 
-Getting the UI Kit integrated into your design workflow is relatively simple.The first step is preparing your environment.
+Getting the UI Kit integrated into your design workflow is relatively simple.The first step is preparing your environment, which only has to be done once. 
 
 ## Preparing your Environment
 
@@ -19,6 +19,12 @@ Getting the UI Kit integrated into your design workflow is relatively simple.The
    3. [Artboard Manager](#). This is used to automatically preserver the order and spacing between artboards in the UI Kit.
 
 These are the minimum required plugins and programs for use of the UI Kit. We've also included suggestions for other plugins that will help you design for GRC. 
+
+Once you have access to abstract and installed the above plugins, you're ready to start using the UI Kit.
+
+## Using the UI Kit
+
+
 
 
 
