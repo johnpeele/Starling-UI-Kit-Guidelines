@@ -14,8 +14,8 @@ To link the UI Kit libraries to an existing sketch file, do the following:
 3. Select the "Starling Design System" project from the popup window. Once you've selected that project, you will have a list of libraries to choose from:  
    ![](/assets/Screen Shot 2018-02-09 at 11.27.48 AM.png)
 
-4. The UI Kit is actually separated into several different libraries, each with a specific function. You can link all or some of the Libraries to your Sketch file by selecting them and clicking "Link Libraries". Please note: they all work independantly  from each other.   
-  
+4. The UI Kit is actually separated into several different libraries, each with a specific function. You can link all or some of the Libraries to your Sketch file by selecting them and clicking "Link Libraries". Please note: they all work independantly  from each other.
+
    As of today, the libraries available are:
 
    1. **Library - Icons **- This contains all icons easily available to the developers through ACL-UI
@@ -26,7 +26,8 @@ To link the UI Kit libraries to an existing sketch file, do the following:
 
    4. **Starling UI Kit** - This is the UI Kits **primary** file and should be linked in the majority of your projects. This will allow you access to common UI Components such as: tabs, buttons, form fields, etc.
 
-5. Once you have linked the libraries you want to use in your project, open your project sketch file through abstract the normal way. You should see the libraries 
+5. Once you have linked the libraries you want to use in your project, open your project sketch file through abstract the normal way. You should see the libraries avaialable to you under the the large "Insert" option in the upper left of Sketch.   
+   ![](/assets/Screen Shot 2018-02-09 at 1.02.48 PM.png)
 
 
 
