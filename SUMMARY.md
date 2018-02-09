@@ -2,6 +2,7 @@
 
 * [Starling UI Kit Guidelines](README.md)
 * [Getting Started](getting-started.md)
+* [Using the UI Kit](using-the-ui-kit.md)
 * [Sketch Plugins](sketch-plugins.md)
   * [Mandatory](sketch-plugins.md#sketch-plugins-mandatory)
   * [Optional, but high recommended](sketch-plugins.md#sketch-plugins-optional)
