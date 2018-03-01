@@ -101,8 +101,12 @@
   text-decoration: underline;
 }
 
-.markdown-section blockquote p:first-of-type:before {
+.markdown-section blockquote p:first-of-type {
   padding: 16px 0
+}
+
+.markdown-section blockquote p:first-of-type:before {
+  display: none;
 }
 
 #book-search-results .search-results .search-results-title {
