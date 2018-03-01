@@ -20,7 +20,12 @@ To get up and running designing with the Starling UI Kit, follow these instructi
 3. The UI Kit will now be available to your entire project! Welcome to the future.
 4. Now create your working branch
 
-**TODO - CREATE A SKETCH TEMPLATE FROM THE 'NEW PROJECT TEMPLATE'**
+\*\*\***TODO\*\*\***
+
+1. **CREATE A SKETCH TEMPLATE FROM THE 'NEW PROJECT TEMPLATE'**
+2. **FIGURE OUT HOW TO START A NEW PROJECT FROM THE TEMPLATE AND LINK THE UI KIT LIBRARY TO IT**
+
+
 
 ### Contribute \(Make Better\)
 
