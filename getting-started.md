@@ -10,8 +10,17 @@ Let's get the basics in place first - Sketch and Abstract...
 
 To get up and running designing with the Starling UI Kit, follow these instructions:
 
-1. Create your New Project in Abstract \(insert animated gif here...\)
-2. In the `Master` branch of your new project, navigate to the `Files` tab and select `Link Library...` in the `Add File` dropdown menu \(insert animated gif here...\)
+1. Create your New Project in Abstract \(_**insert animated gif here...**_\)
+2. Link the UI Kit Library to your new project \(_**insert animated gif here...**_\)
+   1. In the `Master` branch of your new project, navigate to the `Files` tab
+   2. Select `Link Library...` in the `Add File` dropdown menu \(_**insert animated gif here...**_\)
+   3. In the modal window, select the `Starling Design System` project in the left column
+   4. Then select the `Starling UI Kit.sketch` file in the right column
+   5. Click the `Link Library` button
+3. The UI Kit will now be available to your entire project! Welcome to the future.
+4. Now create your working branch
+
+**TODO - CREATE A SKETCH TEMPLATE FROM THE 'NEW PROJECT TEMPLATE'**
 
 ### Contribute \(Make Better\)
 
