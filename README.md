@@ -10,15 +10,15 @@ This is a living document, meant to grow and flex as we do. Nothing is chiseled 
 
 ### Consuming
 
-> We will consume the UI Kit through a combination of Sketch Libraries and the New Project Template.
+We will consume the UI Kit through a combination of Sketch Libraries and the New Project Template.
 
 ### Contributing
 
-> We will contribute to the UI Kit through a combination of Abstract and a thoughtful branching and peer review strategy.
+We will contribute to the UI Kit through a combination of Abstract and a thoughtful branching and peer review strategy.
 
 ### Collaborating
 
-> We will collaborate on the UI Kit using our existing methods of collaboration - InVision, Freehand \(InVision\), Paper, and Slack.
+We will collaborate on the UI Kit using our existing methods of collaboration - InVision, Freehand \(InVision\), Paper, and Slack.
 
 ---
 
