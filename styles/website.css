@@ -101,6 +101,10 @@
   text-decoration: underline;
 }
 
+.markdown-section blockquote p:first-of-type:before {
+  padding: 16px 0
+}
+
 #book-search-results .search-results .search-results-title {
   margin-bottom: 50px;
   font-size: 40px;
