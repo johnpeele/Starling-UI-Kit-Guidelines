@@ -1,24 +1,25 @@
 # Sketch Plugins
 
-We have identified a set of mandatory and optional plugins that will make working with the UI Kit much more enjoyable.
+We have identified a set of mandatory and optional plugins that will make working with, and contributing to, the UI Kit much more enjoyable.
 
 ## **Mandatory for contributing** {#sketch-plugins-mandatory}
 
-[Craft](https://www.invisionapp.com/craft)  
-We will use Craft, for the time being, but we are currently evaluating it’s future usage with the UI Kit.
-
-[Relabel Button](https://github.com/kenmoore/sketch-relabel-button)  
-Quickly change the label for a button and update dimensions without affecting padding.
-
-[Stark](http://www.getstark.co/)  
-Easily apply color blindness filters to your designs and check contrast between 2 colors.  
-_**\* Note: **Feel free to use any contrast checker. The requirement here is that you use some kind of contrast tool._
+[Symbol Organizer](https://github.com/sonburn/symbol-organizer)  
+We use this plugin to keep symbol insanity to a minimum in the Starling UI Kit `.sketch` file
 
 [Artboard Manager](https://github.com/bomberstudios/artboard-manager)  
 Because moving Artboards manually is **so 2016.** This plugin keeps your artboards neatly arranged in columns and rows. Rearranging is simply as dragging artboards to a new position and the plugin will snap all other artboards into their new position.
 
-[Symbol Organizer](https://github.com/sonburn/symbol-organizer)  
-We use this plugin to keep symbol insanity to a minimum in the Starling UI Kit `.sketch` file
+[Relabel Button](https://github.com/kenmoore/sketch-relabel-button)  
+Quickly change the label for a button and update dimensions without affecting padding.  
+_**\* Note: **_The Relabel Button plugin is also required for updating button labels in your designs.
+
+[Craft](https://www.invisionapp.com/craft)  
+We will use Craft, for the time being, but we are currently evaluating it’s future usage with the UI Kit.
+
+[Stark](http://www.getstark.co/)  
+Easily apply color blindness filters to your designs and check contrast between 2 colors.  
+_**\* Note: **Feel free to use any contrast checker. The requirement here is that you use some kind of contrast tool._
 
 ---
 
