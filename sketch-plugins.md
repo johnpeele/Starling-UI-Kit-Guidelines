@@ -2,7 +2,7 @@
 
 We have identified a set of mandatory and optional plugins that will make working with the UI Kit much more enjoyable.
 
-## **Mandatory** {#sketch-plugins-mandatory}
+## **Mandatory for contributing** {#sketch-plugins-mandatory}
 
 [Craft](https://www.invisionapp.com/craft)  
 We will use Craft, for the time being, but we are currently evaluating it’s future usage with the UI Kit.
@@ -32,7 +32,7 @@ Effectively naming your layers is crucial when working within a team. This plugi
 
 ---
 
-## **Symbol Organizer Settings** {#sketch-plugins-symbol-organizer}
+## **Symbol Organizer settings** {#sketch-plugins-symbol-organizer}
 
 The plugin has 2 commands:
 
