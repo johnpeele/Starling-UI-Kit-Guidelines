@@ -1,12 +1,28 @@
 # Getting Started
 
-Let's get the basics in place first - Sketch and Abstract...
+Getting the UI Kit integrated into your design workflow is relatively simple.The first step is preparing your environment, which only has to be done once.
 
-1. Install [Sketch](https://www.sketchapp.com/).
-2. Install [mandatory Sketch plugins](/sketch-plugins.md#sketch-plugins-mandatory). Go ahead and install the [recommended ones](/sketch-plugins.md#sketch-plugins-optional) since you are feeling extra awesome now.
-3. Install [Abstract](https://www.goabstract.com/).
+## Preparing your Environment
 
-### Consume \(Use\)
+1. Install [Sketch](https://www.sketchapp.com/) - Ensure you have Sketch installed on your computer and that it is up to date with the latest publically released version.
+2. Install [Abstract](https://www.goabstract.com/) - The UI Kit is stored in the UX design team's shared repository, which is managed by Abstract. Ensure you have Abstract installed on your computer and that you are a part of the ACL organization in Abstract.
+_Note: licenses and access to the above software should be arranged during your onboarding, if not please ask a senior member of the UX team._
+3. Once you have Abstract installed, ensure that you have the [Starling Design System](https://share.goabstract.com/2a3f637c-1f60-47a1-887e-dbd002f44b18) project downloaded and sync'd.
+4. The UI Kit depends on a few vital Sketch plugins to function properly. The **mandatory plugins** are broken into 2 categories:
+   1. Mandatory for **contributing to** the UI Kit
+      1. [Symbol Organizer](https://github.com/sonburn/symbol-organizer) - This is used to automatically organize all the symbols in the UI Kit. This should be run as part of your commit process when updating the UI Kit.
+      2. [Artboard Manager](https://github.com/bomberstudios/artboard-manager) - This is used to automatically preserver the order and spacing between artboards in order to match the Table of Contents in the UI Kit.
+      3. [Relabel Button](https://github.com/kenmoore/sketch-relabel-button) - Same as above...
+   2. Mandatory for **consuming \(using\)** the UI Kit:
+      1. [Relabel Button](https://github.com/kenmoore/sketch-relabel-button) - This is used to update button labels and automatically resize buttons while preserving padding.
+
+These are the minimum required plugins and programs for using, and contributing to, the UI Kit. We've also included suggestions for other plugins that will help you design under the Sketch Plugins section.
+
+Once you have access to abstract and installed the above plugins, you're ready to start using the UI Kit.
+
+---
+
+## Consume \(Use\)
 
 To get up and running designing with the Starling UI Kit, follow these instructions:
 
@@ -25,7 +41,9 @@ To get up and running designing with the Starling UI Kit, follow these instructi
 1. **CREATE A SKETCH TEMPLATE FROM THE 'NEW PROJECT TEMPLATE'**
 2. **FIGURE OUT HOW TO START A NEW PROJECT FROM THE TEMPLATE AND LINK THE UI KIT LIBRARY TO IT**
 
-### Contribute \(Make Better\)
+---
+
+## Contribute \(Make Better\)
 
 If you wish to contribute to the UI Kit by updating/improving an existing component or by experimenting with a brand new component, follow these instructions:
 
@@ -35,38 +53,3 @@ If you wish to contribute to the UI Kit by updating/improving an existing compon
 4. Get to work yo! Design your heart out. [Commit your work often](/abstract-guidelines-and-best-practices.md#abstract-commit) to Abstract so that you have a thorough history. A solid commit history will be a lifesaver if you ever need to revert back to an earlier state of your design and start over.
 5. When you are finished, [update the status of your branch](/abstract-guidelines-and-best-practices.md#abstract-status) and ask another designer\(s\) to review your work and provide feedback. Slack is a great place for this type of collaboration.
 6. After you and your design buddies have had their say and all work is complete, merge your working branch back into `Master` so that the rest of the team can revel in your awesomeness.
-
----
-
-\(Kris' work below...\)
-
-# Getting Started
-
-Getting the UI Kit integrated into your design workflow is relatively simple.The first step is preparing your environment, which only has to be done once.
-
-## Preparing your Environment
-
-1. Ensure you have [Sketch](https://www.sketchapp.com/) installed on your computer and that it is up to date with the latest publically released version.
-2. The UI Kit is stored in the UX design team's shared repository, which is managed by [Abstract](https://www.goabstract.com/). Ensure you have Abstract installed on your computer and that you are a part of the ACL organization in Abstract.  
-   _Note: licenses and access to the above software should be arranged during your onboarding, if not please ask a senior member of the UX team._
-
-3. Once you have Abstract installed, ensure that you have the **Starling Design System** project downloaded and sync'd.
-
-4. The UI Kit depends on a few vital Sketch plugins to function properly. The **mandatory plugins **are broken into 2 categories:
-
-   1. Mandatory for **consuming \(using\)** the UI Kit:
-
-      1. Relabel Button - This is used to update button labels and automatically resize buttons while preserving padding.
-
-   2. Mandatory for **contributing to** the UI Kit
-
-      1. [Symbol Organizer](#) - This is used to automatically organize all the symbols in the UI Kit.This is required, and should be run as part of your process when updating the UI Kit.
-
-      2. [Relabel Button](#) - This is used to update button labels and automatically resize buttons while preserving padding.
-
-      3. [Artboard Manager](#) - This is used to automatically preserver the order and spacing between artboards in the UI Kit.
-
-These are the minimum required plugins and programs for use of the UI Kit. We've also included suggestions for other plugins that will help you design under the Sketch Plugins section.
-
-Once you have access to abstract and installed the above plugins, you're ready to start using the UI Kit.
-
