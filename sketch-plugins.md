@@ -2,18 +2,6 @@
 
 We have identified a set of mandatory and optional plugins that will make working with, and contributing to, the UI Kit much more enjoyable.
 
-## Mandatory for contributing {#sketch-plugins-mandatory-contributing}
-
-[Symbol Organizer](https://github.com/sonburn/symbol-organizer)
-We use this plugin to keep symbol insanity to a minimum in the Starling UI Kit `.sketch` file
-
-[Artboard Manager](https://github.com/bomberstudios/artboard-manager)
-Because moving Artboards manually is **so 2016.** This plugin keeps your artboards neatly arranged in columns and rows. Rearranging is simply as dragging artboards to a new position and the plugin will snap all other artboards into their new position.
-
-[Relabel Button](https://github.com/kenmoore/sketch-relabel-button)
-Quickly change the label for a button and update dimensions without affecting padding.
-\_**\* Note: **\_The Relabel Button plugin is also required for updating button labels in your designs.
-
 ## Mandatory for consuming \(using\) {#sketch-plugins-mandatory-consuming}
 
 [Relabel Button](https://github.com/kenmoore/sketch-relabel-button)
@@ -25,6 +13,17 @@ We will use Craft, for the time being, for layer and text styles, but we are cur
 [Stark](http://www.getstark.co/)
 Easily apply color blindness filters to your designs and check contrast between 2 colors.
 _**\* Note: **Feel free to use any contrast checker. The requirement here is that you use some kind of contrast tool._
+
+## Mandatory for contributing {#sketch-plugins-mandatory-contributing}
+
+[Relabel Button](https://github.com/kenmoore/sketch-relabel-button)
+Same as above...
+
+[Symbol Organizer](https://github.com/sonburn/symbol-organizer)
+We use this plugin to keep symbol insanity to a minimum in the Starling UI Kit `.sketch` file
+
+[Artboard Manager](https://github.com/bomberstudios/artboard-manager)
+Because moving Artboards manually is **so 2016.** This plugin keeps your artboards neatly arranged in columns and rows. Rearranging is simply as dragging artboards to a new position and the plugin will snap all other artboards into their new position.
 
 ---
 
