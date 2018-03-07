@@ -20,7 +20,7 @@ Quickly change the label for a button and update dimensions without affecting pa
 Quickly change the label for a button and update dimensions without affecting padding.
 
 [Craft](https://www.invisionapp.com/craft)
-We will use Craft, for the time being, but we are currently evaluating it’s future usage with the UI Kit.
+We will use Craft, for the time being, for layer and text styles, but we are currently evaluating it’s future usage with the UI Kit.
 
 [Stark](http://www.getstark.co/)
 Easily apply color blindness filters to your designs and check contrast between 2 colors.

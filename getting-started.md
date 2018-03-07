@@ -6,7 +6,7 @@ Getting the UI Kit integrated into your design workflow is relatively simple.The
 
 1. Install [Sketch](https://www.sketchapp.com/) - Ensure you have Sketch installed on your computer and that it is up to date with the latest publically released version.
 2. Install [Abstract](https://www.goabstract.com/) - The UI Kit is stored in the UX design team's shared repository, which is managed by Abstract. Ensure you have Abstract installed on your computer and that you are a part of the ACL organization in Abstract.
-_Note: licenses and access to the above software should be arranged during your onboarding, if not please ask a senior member of the UX team._
+_**Note:** licenses and access to the above software should be arranged during your onboarding, if not please ask a senior member of the UX team._
 3. Once you have Abstract installed, ensure that you have the [Starling Design System](https://share.goabstract.com/2a3f637c-1f60-47a1-887e-dbd002f44b18) project downloaded and sync'd.
 4. The UI Kit depends on a few vital Sketch plugins to function properly. The **mandatory plugins** are broken into 2 categories:
    1. Mandatory for **contributing to** the UI Kit
@@ -15,6 +15,9 @@ _Note: licenses and access to the above software should be arranged during your 
       3. [Relabel Button](https://github.com/kenmoore/sketch-relabel-button) - Same as above...
    2. Mandatory for **consuming \(using\)** the UI Kit:
       1. [Relabel Button](https://github.com/kenmoore/sketch-relabel-button) - This is used to update button labels and automatically resize buttons while preserving padding.
+      2. [Craft](https://www.invisionapp.com/craft) - We will use Craft, for the time being, for layer and text styles, but we are currently evaluating it’s future usage with the UI Kit.
+      3. [Stark](http://www.getstark.co/) - Easily apply color blindness filters to your designs and check contrast between 2 colors.
+      _**Note:** Feel free to use any contrast checker. The requirement here is that you use some kind of contrast tool._
 
 These are the minimum required plugins and programs for using, and contributing to, the UI Kit. We've also included suggestions for other plugins that will help you design under the Sketch Plugins section.
 
