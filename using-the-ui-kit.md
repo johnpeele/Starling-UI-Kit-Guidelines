@@ -1,6 +1,6 @@
 # Using the UI Kit {#usingtheuikit}
 
-Now that you have sketch and abstract set up, you can start to link the UI Kit into your new or existing sketch files.
+Now that you have Sketch and Abstract set up, you can start to link the UI Kit into your new or existing sketch files.
 
 ## Linking the UI Kit
 
@@ -26,7 +26,7 @@ To link the UI Kit libraries to an existing sketch file, do the following:
 
    4. **Starling UI Kit** - This is the UI Kits **primary** file and should be linked in the majority of your projects. This will allow you access to common UI Components such as: tabs, buttons, form fields, etc.
 
-5. Once you have linked the libraries you want to use in your project, open your project sketch file through abstract the normal way. You should see the libraries avaialable to you under the the large "Insert" option in the upper left of Sketch.   
+5. Once you have linked the libraries you want to use in your project, open your project sketch file through abstract the normal way. You should see the libraries avaialable to you under the the large "Insert" option in the upper left of Sketch.  
    ![](/assets/Screen Shot 2018-02-09 at 1.02.48 PM.png)
 
 
