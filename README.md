@@ -8,21 +8,19 @@ These guidelines are meant to help us all stay on the same page as we consume \(
 
 ---
 
-### Consuming
+### Consume
 
 > We will consume the UI Kit through a combination of Sketch Libraries and the New Project Template.
 
-### Contributing
+### Contribute
 
 > We will contribute to the UI Kit through a combination of Abstract and a thoughtful branching and peer review strategy.
 
-### Collaborating
+### Collaborate
 
 > We will collaborate on the UI Kit using our existing methods of collaboration - InVision, Freehand \(InVision\), Paper, and Slack.
 
 ---
 
 Let's [get started](/getting-started.md), shall we?
-
-
 

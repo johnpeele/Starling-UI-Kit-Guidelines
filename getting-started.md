@@ -25,7 +25,6 @@ To get up and running designing with the Starling UI Kit, follow these instructi
 1. **CREATE A SKETCH TEMPLATE FROM THE 'NEW PROJECT TEMPLATE'**
 2. **FIGURE OUT HOW TO START A NEW PROJECT FROM THE TEMPLATE AND LINK THE UI KIT LIBRARY TO IT**
 
-
 ### Contribute \(Make Better\)
 
 If you wish to contribute to the UI Kit by updating/improving an existing component or by experimenting with a brand new component, follow these instructions:
@@ -39,7 +38,7 @@ If you wish to contribute to the UI Kit by updating/improving an existing compon
 
 ---
 
-(Kris' work below...)
+\(Kris' work below...\)
 
 # Getting Started
 
@@ -49,18 +48,25 @@ Getting the UI Kit integrated into your design workflow is relatively simple.The
 
 1. Ensure you have [Sketch](https://www.sketchapp.com/) installed on your computer and that it is up to date with the latest publically released version.
 2. The UI Kit is stored in the UX design team's shared repository, which is managed by [Abstract](https://www.goabstract.com/). Ensure you have Abstract installed on your computer and that you are a part of the ACL organization in Abstract.  
-   _Note: licenses and access to the above software should be arranged during your onboarding, if not please ask a senior member of the ux team. _
+   _Note: licenses and access to the above software should be arranged during your onboarding, if not please ask a senior member of the UX team._
 
-3. Once you have abstract installed, ensure that you have the **Starling Design System** project downloaded and sync'd.
+3. Once you have Abstract installed, ensure that you have the **Starling Design System** project downloaded and sync'd.
 
-4. The UI Kit depends on a few vital Sketch plugins to function properly. Before using the UI Kit, make sure you have the following installed in Sketch:
+4. The UI Kit depends on a few vital Sketch plugins to function properly. The **mandatory plugins **are broken into 2 categories:
 
-   1. [Symbol Organizer](#). This is used to automatically organize all the symbols in the UI Kit.This is required, and should be run as part of your process when updating the UI Kit.
+   1. Mandatory for **consuming \(using\)** the UI Kit:
 
-   2. [Relabel Button](#). This is used to automatically resize buttons while preserving padding.
+      1. Relabel Button - This is used to update button labels and automatically resize buttons while preserving padding.
 
-   3. [Artboard Manager](#). This is used to automatically preserver the order and spacing between artboards in the UI Kit.
+   2. Mandatory for **contributing to** the UI Kit
+
+      1. [Symbol Organizer](#) - This is used to automatically organize all the symbols in the UI Kit.This is required, and should be run as part of your process when updating the UI Kit.
+
+      2. [Relabel Button](#) - This is used to update button labels and automatically resize buttons while preserving padding.
+
+      3. [Artboard Manager](#) - This is used to automatically preserver the order and spacing between artboards in the UI Kit.
 
 These are the minimum required plugins and programs for use of the UI Kit. We've also included suggestions for other plugins that will help you design under the Sketch Plugins section.
 
 Once you have access to abstract and installed the above plugins, you're ready to start using the UI Kit.
+
