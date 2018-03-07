@@ -12,9 +12,9 @@ _**Note:** licenses and access to the above software should be arranged during y
    1. Mandatory for **contributing to** the UI Kit
       1. [Symbol Organizer](https://github.com/sonburn/symbol-organizer) - This is used to automatically organize all the symbols in the UI Kit. This should be run as part of your commit process when updating the UI Kit.
       2. [Artboard Manager](https://github.com/bomberstudios/artboard-manager) - This is used to automatically preserver the order and spacing between artboards in order to match the Table of Contents in the UI Kit.
-      3. [Relabel Button](https://github.com/kenmoore/sketch-relabel-button) - Same as above...
+      3. [Relabel Button](https://github.com/kenmoore/sketch-relabel-button) - Quickly change the label for a button and update dimensions without affecting padding.
    2. Mandatory for **consuming \(using\)** the UI Kit:
-      1. [Relabel Button](https://github.com/kenmoore/sketch-relabel-button) - This is used to update button labels and automatically resize buttons while preserving padding.
+      1. [Relabel Button](https://github.com/kenmoore/sketch-relabel-button) - Same as above...
       2. [Craft](https://www.invisionapp.com/craft) - We will use Craft, for the time being, for layer and text styles, but we are currently evaluating it’s future usage with the UI Kit.
       3. [Stark](http://www.getstark.co/) - Easily apply color blindness filters to your designs and check contrast between 2 colors.
       _**Note:** Feel free to use any contrast checker. The requirement here is that you use some kind of contrast tool._
