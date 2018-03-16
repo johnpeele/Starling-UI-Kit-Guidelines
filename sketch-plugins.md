@@ -9,7 +9,7 @@ Quickly change the label for a button and update dimensions without affecting pa
 
 [Craft Library](https://www.invisionapp.com/craft)  
 We will use Craft Library, for the time being, for layer and text styles, but we are currently evaluating it’s future usage with the UI Kit.  
-_**Note:** JP is blah blah blah_
+_**Note:** JP is currently experimenting with a plugin called _[_Style Libraries_](https://github.com/sigtm/sketch-style-libraries)_ that could easily replace Craft Library functionality._
 
 [Stark](http://www.getstark.co/)  
 Easily apply color blindness filters to your designs and check contrast between 2 colors.  
@@ -42,14 +42,15 @@ Effectively naming your layers is crucial when working within a team. This plugi
 
 The plugin has 2 commands:
 
-1. Configure Symbol Organizer \(performed only once\)
-2. Run Symbol Organizer \(performed regularly as needed and is required before merging branches back to `Master)`
+1. **Configure Symbol Organizer **- this command is performed only once per file.
+2. **Run Symbol Organizer** - this command is performed regularly as needed and is required before merging branches back to **Master.**
 
-**Each designer will need to perform the following steps, but only once!**
+Each designer will need to perform the following steps when working in the UI Kit**, but only once! **You do not have to run the configuration command any more.
 
-1. Run the configuration command `Plugins > Symbol Organizer > Configure Symbol Organizer`
-2. Enter the following settings
-3. Click `Organize`. This will configure **and** run the plugin for the first time
+1. Run the configuration command **Plugins &gt; Symbol Organizer &gt; Configure Symbol Organizer**
+2. Enter the settings below...
+3. Click **Organize**. This will configure **and** run the plugin for the first time
+4. From now on, you only need to use the **Run Symbol Organizer** command as you're working and before merging any branches into **Master**.
 
 ![](/assets/symbol-organizer-settings.png)
 
