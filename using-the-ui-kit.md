@@ -1,48 +1,50 @@
 # Using the UI Kit {#using-the-ui-kit}
 
-Now that you have Sketch and Abstract set up, you can link the UI Kit into your new or existing sketch files.
+With version 47, Sketch introduced [Libraries](https://www.sketchapp.com/docs/libraries/). A Library is just an ordinary Sketch document that contains [Symbols](https://www.sketchapp.com/docs/symbols/) which you can then use in any other Sketch document. If you [update any of those Symbols](https://www.sketchapp.com/docs/libraries/library-symbols) in your Library file, documents containing instances of those Symbols will receive a notification telling you that they can be updated.
+
+Sketch Libraries are a foundational piece of the UI Kit, so please make sure that you understand how they work.
+
+Now that you have Sketch and Abstract installed and configured, you can link the UI Kit Library into your new or existing Sketch files.
 
 ## Linking the UI Kit
 
-To link the UI Kit libraries to an existing sketch file, do the following:
+Abstract manages all aspects of Libraries for us. Libraries are linked at the project level. To link the UI Kit Libraries to a project, do the following:
 
-1. Access your existing project in Abstract.
-   If you haven't created a project or or branch in Abstract, you need to do so to properly link to the ui kit libraries.
-2. Click on the "add file" button in Abstract and select the "Link Library" option.
-   ![](/assets/Screen Shot 2018-02-09 at 11.08.54 AM.png)
-3. Select the "Starling Design System" project from the popup window. Once you've selected that project, you will have a list of libraries to choose from:
-   ![](/assets/Screen Shot 2018-02-09 at 11.27.48 AM.png)
-4. The UI Kit is actually separated into several different libraries, each with a specific function. You can link all or some of the Libraries to your Sketch file by selecting them and clicking "Link Libraries". Please note: they all work independantly  from each other.
-   As of today, the libraries available are:
-   1. **Library - Icons **- This contains all icons easily available to the developers through ACL-UI
-   2. **Library - Variables** - This contains all colours, borders and other miscellaneous variables available through ACL-UI
-   3. **Library - Navigation** - This contains common navigational design patterns in use throughout GRC, such as the sidepanel, left hand navigation panel, etc.
-   4. **Starling UI Kit** - This is the UI Kits **primary** file and should be linked in the majority of your projects. This will allow you access to common UI Components such as: tabs, buttons, form fields, etc.
-5. Once you have linked the libraries you want to use in your project, open your project sketch file through abstract the normal way. You should see the libraries avaialable to you under the the large "Insert" option in the upper left of Sketch.
-   ![](/assets/Screen Shot 2018-02-09 at 1.02.48 PM.png)
+1. Open your project
+2. View project files for any branch or `master`
+3. Select **Add File **&gt; **Link Library…**
+4. Choose **Starling Design System** from the list of projects
+5. Choose **Starling UI Kit.sketch** from the list of library files
+   _**Note:** The **Starling UI Kit.sketch** Library already has all of the other Library files linked to it. Inception! Choosing this Library file will automatically bring the other Libraries along for the ride._
+6. Select **Link Library** at the bottom
+7. Once you have linked the libraries you want to use in your project, open your project sketch file through abstract the normal way. You should see the libraries avaialable to you under the the large "Insert" option in the upper left of Sketch.
 
+{% raw %}
+ <video id="my-video" class="video-js" controls preload="auto" width="640" height="264" data-setup="{}">
+  <source src="/assets/abstract-link-library.mp4" type='video/mp4'>
+  <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+  </p>
+</video>
+{% endraw %}
 
+### UI Kit Library Organization
+
+The UI Kit is actually separated into several different libraries, each with a specific function. You can link the individual Library files \(prefixed with "_Library -"_\) using the same linking method described above.
+
+Just remember, if you want to link all the Libraries, then you only have to link the `Starling UI Kit.sketch` Library file.
+
+#### Available Libraries:
+
+1. **Starling UI Kit** - This is the **primary** Library file and should be linked in all of your projects. This will allow you access to common UI Components such as: tabs, buttons, form fields, etc. _**Note:** Each of the Libraries below are already linked to Starling UI Kit Library._
+   1. **Library - Icons** - This Library contains all icons easily available to the developers through ACL-UI.
+   2. **Library - Variables** - This Library contains all colours, borders and other miscellaneous variables available through ACL-UI.
+   3. **Library - Navigation** - This Library contains common navigational design patterns in use throughout GRC, such as the sidepanel, left hand navigation panel, etc.
 
 ---
 
-**JP's work below...**
+**TODO**
 
-## Consume \(Use\)
-
-To get up and running designing with the Starling UI Kit, follow these instructions:
-
-1. Create your New Project in Abstract \(_**insert animated gif here...**_\)
-2. Link the UI Kit Library to your new project \(_**insert animated gif here...**_\)
-   1. In the `Master` branch of your new project, navigate to the `Files` tab
-   2. Select `Link Library...` in the `Add File` dropdown menu \(_**insert animated gif here...**_\)
-   3. In the modal window, select the `Starling Design System` project in the left column
-   4. Then select the `Starling UI Kit.sketch` file in the right column
-   5. Click the `Link Library` button
-3. The UI Kit will now be available to your entire project! Welcome to the future.
-4. Now create your working branch
-
-\*\*\***TODO\*\*\***
-
-1. **CREATE A SKETCH TEMPLATE FROM THE 'NEW PROJECT TEMPLATE'**
+1. **CREATE A SKETCH TEMPLATE FROM THE 'New Project Template'**
 2. **FIGURE OUT HOW TO START A NEW PROJECT FROM THE TEMPLATE AND LINK THE UI KIT LIBRARY TO IT**
-
