@@ -21,7 +21,7 @@ Abstract manages all aspects of Libraries for us. Libraries are linked at the pr
 
 {% raw %}
  <video id="video-abstract-link-library" class="video-js" controls preload="auto" width="640" height="264" data-setup="{}">
-  <source src="/assets/abstract-link-library.mp4" type='video/mp4'>
+  <source src="https://johnpeele.gitbooks.io/starling-ui-kit-guidelines/content/assets/abstract-link-library.mp4" type='video/mp4'>
   <p class="vjs-no-js">
     To view this video please enable JavaScript, and consider upgrading to a web browser that
     <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
