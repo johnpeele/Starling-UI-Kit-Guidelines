@@ -110,6 +110,10 @@
   display: none;
 }
 
+.markdown-section #video-abstract-link-library {
+  margin: 48px 0;
+}
+
 #book-search-results .search-results .search-results-title {
   margin-bottom: 50px;
   font-size: 40px;
