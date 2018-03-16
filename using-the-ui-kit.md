@@ -19,10 +19,9 @@ Abstract manages all aspects of Libraries for us. Libraries are linked at the pr
 6. Select **Link Library** at the bottom
 7. Once you have linked the libraries you want to use in your project, open your project sketch file through abstract the normal way. You should see the libraries avaialable to you under the the large "Insert" option in the upper left of Sketch.
 
-
 {% raw %}
- <video id="my-video" class="video-js" controls preload="auto" width="640" height="264" poster="abstract-link-library.png" data-setup="{}">
-  <source src="https://johnpeele.gitbooks.io/starling-ui-kit-guidelines/content/assets/abstract-link-library.mp4" type='video/mp4'>
+ <video id="video-abstract-link-library" class="video-js" controls preload="auto" width="640" height="264" data-setup="{}">
+  <source src="/assets/abstract-link-library.mp4" type='video/mp4'>
   <p class="vjs-no-js">
     To view this video please enable JavaScript, and consider upgrading to a web browser that
     <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
