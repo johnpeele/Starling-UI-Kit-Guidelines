@@ -37,10 +37,10 @@ Just remember, if you want to link all the Libraries, then you only have to link
 
 #### Available Libraries:
 
-1. **Starling UI Kit** - This is the **primary** Library file and should be linked in all of your projects. This will allow you access to common UI Components such as: tabs, buttons, form fields, etc. _**Note:** Each of the Libraries below are already linked to Starling UI Kit Library._
-   1. **Library - Icons** - This Library contains all icons easily available to the developers through ACL-UI.
-   2. **Library - Variables** - This Library contains all colours, borders and other miscellaneous variables available through ACL-UI.
-   3. **Library - Navigation** - This Library contains common navigational design patterns in use throughout GRC, such as the sidepanel, left hand navigation panel, etc.
+* **Starling UI Kit** - This is the **primary** Library file and should be linked in all of your projects. This will allow you access to common UI Components such as: tabs, buttons, form fields, etc. _**Note:** Each of the Libraries below are already linked to Starling UI Kit Library._
+   * **Library - Icons** - This Library contains all icons easily available to the developers through ACL-UI.
+   * **Library - Variables** - This Library contains all colours, borders and other miscellaneous variables available through ACL-UI.
+   * **Library - Navigation** - This Library contains common navigational design patterns in use throughout GRC, such as the sidepanel, left hand navigation panel, etc.
 
 ---
 
