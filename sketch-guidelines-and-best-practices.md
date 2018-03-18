@@ -7,14 +7,20 @@ search:
 
 # Sketch Guidelines & Best Practices
 
-These are the guidelines and best practices for using Sketch in general, but more specifically as it pertains to the UI Kit.
+These are the guidelines and best practices for using Sketch in general, but more specifically for contributing to the UI Kit.
 
 ## Naming conventions {#sketch-naming}
 
-\(Even though Abstract negates the need for versioning info in our file names, we still need a nice flexible naming pattern here\)
+Even though Abstract negates the need for any kind of versioning info in our file names, we still need a nice flexible naming pattern. The _general guideline_ here is to make sure a teammate can easily understand your work by reading the file name.
 
-* `ProjectName-ComponentName.sketch`
-* `ComputedFields-FormulaBuilder.sketch`
+* `ModuleName ProjectName.sketch`
+* `ModuleName ProjectName ComponentName.sketch`
+
+Example:
+
+* `Projects Dashboard.sketch`
+* `ComputedFields FormulaBuilder.sketch`
+* `Visualizer Storyboards Filters.sketch`
 
 ---
 
@@ -30,7 +36,7 @@ Because Sketch exports artboards nicely into files or pushes them directly into 
 
 Using horizontal rows to group related views together with a sequential naming pattern is one way to accomplish this. The designer group should decide this together…
 
-The [Artboard Manager](#) plugin will take care of this for us.
+The [Artboard Manager](https://github.com/bomberstudios/artboard-manager) plugin will take care of this for us.
 
 ![](/assets/artboard-organization.png)
 
@@ -52,11 +58,12 @@ It’s important to make sure your symbols will fit in with the UI Kit’s exist
 
 Components / &lt;Component Name&gt; / &lt;Variation&gt; / &lt;State&gt;
 
-Each /  in your component name will create a new level of nesting in the Sketch Symbol menu…
+Each **/** (forward slash) in your component name will create a new level of nesting in the Sketch Symbol menu…
 
 #### **Component Name**
 
-After the **Components /** prefix, you should choose a short, descriptive name for your new component \(Pill, Badge, Toggle, etc\). **IMPORTANT -** **This name should correspond with the name of the component on the Starling site, and in ACL UI. **
+After the **Components /** prefix, you should choose a short, descriptive name for your new component \(Pill, Badge, Toggle, etc\).
+**Important Note:** This name should correspond with the name of the component on the Starling site, and in ACL UI.
 
 #### **Variation**
 
