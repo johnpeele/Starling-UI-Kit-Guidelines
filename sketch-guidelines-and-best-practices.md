@@ -101,7 +101,7 @@ When you are building a component for the UI Kit, you need to consider what your
 
 “has Error”
 
-You need to ensure that you include all the variations of your new component so that UX devs and other designers know how it will work in all situations. Look to existing naming patterns to find the best name for your state\(s\), this will help to establish guidelines over time.
+You need to ensure that you include all the variations of your new component so that UX devs and other designers know how it will work in all situations. Look to existing naming patterns to find the best name for your states, this will help to establish guidelines over time.
 
 ### **Master symbols** {#sketch-symbols-master}
 
