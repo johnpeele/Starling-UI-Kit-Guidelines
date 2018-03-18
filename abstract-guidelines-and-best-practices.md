@@ -1,10 +1,10 @@
 # Abstract Guidelines & Best Practices
 
-These are the guidelines and best practices for using Abstract in general, but more specifically as it pertains to the UI Kit.
+These are the guidelines and best practices for using Abstract in general, but more specifically for contributing to the UI Kit.
 
 ## Name your branches consistenly {#abstract-name}
 
-When branching from the UI Kit’s master, you should use one of the below tags as a prefix to your branch name. Doing this will let the rest of the team know what the purpose of the branch is, and connect it with the associated stage of work.
+When branching from the UI Kit’s master branch, you should use one of the tags below as a prefix to your branch name. Doing this will let the rest of the team know what the purpose of the branch is and also and connect it with the associated stage of work.
 
 ### **UPDATE** {#branch-naming-update}
 
@@ -17,7 +17,7 @@ The UPDATE prefix should be used when you are fixing or updating an existing com
 
 **Do not** use the UPDATE tag when:
 
-* Adding a _new_ type of button
+* Adding a _new_ type of button that doesn't currently exist - use BETA instead.
 
 ### **BETA** {#branch-naming-beta}
 
@@ -30,7 +30,7 @@ The BETA prefix should be used if you are experimenting with completely new comp
 
 **Do not** use the BETA tag when:
 
-* Adjusting the padding in an existing symbol to fit with the rest of our components.
+* Adjusting the padding in an existing symbol to fit with the rest of our components - use UPDATE instead.
 
 ### **PITCH** {#branch-naming-pitch}
 
