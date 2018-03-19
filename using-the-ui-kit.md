@@ -14,8 +14,8 @@ Abstract manages all aspects of Libraries for us. Libraries are linked at the pr
 2. View project files for any branch or `master`
 3. Select **Add File **&gt; **Link Library…**
 4. Choose **Starling Design System** from the list of projects
-5. Choose **Starling UI Kit.sketch** from the list of library files
-   _**Note:** The **Starling UI Kit.sketch** Library already has all of the other Library files linked to it. Inception! Choosing this Library file will automatically bring the other Libraries along for the ride._
+5. Choose **Starling UI Kit.sketch** from the list of library files<br>
+_**Note:** The **Starling UI Kit.sketch** Library already has all of the other Library files linked to it. Inception! Choosing this Library file will automatically bring the other Libraries along for the ride._
 6. Select **Link Library** at the bottom
 7. Once you have linked the libraries you want to use in your project, open your project sketch file through abstract the normal way. You should see the libraries avaialable to you under the the large "Insert" option in the upper left of Sketch.
 
