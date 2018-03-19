@@ -1,8 +1,8 @@
 # Experimentation in our design system…
 
-Our platform is comprised of several modules, each of which has a unique set of requirements and use cases. What may work in 9 scenarios might work in the tenth. Simply put, we don't have a fixed "one size fits all" solution for our challenges. We need a way to explore and experiment with our platform while still being able to rely on a core set of components and patterns. Yet, knowing how and when to evolve an existing component or interaction pattern can often be unclear. To solve this, a process for exploration and experimentation will be implemented: **Utilization, Adaptation, then Creation.**
+Our platform is comprised of several modules, each of which has a unique set of requirements and use cases. What may work in 9 scenarios might work in the tenth. Simply put, we don't have a fixed "one size fits all" solution for our challenges.
 
-Our design system is similar to a living organism - in a state of flux and constantly adapting to it's surroundings.
+We need a way to explore and experiment with our platform while still being able to rely on a core set of components and patterns. Yet, knowing how and when to evolve an existing component or interaction pattern can often be unclear. Our design system is similar to a living organism - in a state of flux and constantly adapting to it's surroundings. To solve this, a process for exploration and experimentation will be implemented: **Utilization, Adaptation, then Creation.**
 
 ## Utilize -&gt; Adapt -&gt; Create
 
