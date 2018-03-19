@@ -2,24 +2,24 @@
 
 These are the guidelines and best practices for using Abstract in general, but more specifically for contributing to the UI Kit.
 
-At it's core, Abstract is a version control system \(VCS\) for design files. The nature and file structure of a `.sketch` file creates a workflow that is similar to traditional VCS flows, but it also brings some new concepts to the table that we must be aware of.
+At it's core, Abstract is a version control system \(VCS\) for design files. The nature and file structure of a `.sketch` file allows for a workflow that is similar to traditional VCS flows, but it also brings some new concepts to the table that we must be aware of.
 
 ## Version Control best practices {#abstract-best-practices}
 
-1. Commit related changes - A commit should be a wrapper for related changes. Small commits make it easier for other team members to understand the changes and roll them back if something went wrong.
-2. Commit often - Committing often keeps your commits small and, again, helps you commit only related changes. Moreover, it allows you to share your work more frequently with the team.
-3. Write good commit messages - Abstract requires a summary description for every commit \(up to 72 characters\). Be sure to use the "Optional details" area to add detailed information for your commit, use Markdown for emphasis and clarity.
-4. Use branches - Branches are perfect for helping you seperate your thought processes as you work. You should use branches for experimenting with new ideas while keeping your core work protected. You can create branches off of existing branches, so go wild!
+1. **Commit related changes** - A commit should be a wrapper for related changes. Small commits make it easier for other team members to understand the changes and roll them back if something went wrong.
+2. **Commit often** - Committing often keeps your commits small and, again, helps you commit only related changes. Moreover, it allows you to share your work more frequently with the team.
+3. **Write good commit messages** - Abstract requires a summary description for every commit \(up to 72 characters\). Be sure to use the "Optional details" area to add detailed information for your commit, use Markdown for emphasis and clarity.
+4. **Use branches** - Branches are perfect for helping you seperate your thought processes as you work. You should use branches for experimenting with new ideas while keeping your core work protected. You can create branches off of existing branches, so go wild!
 
 > Unlike Github, Abstract doesn't give us a mehtod to handle either Pull Requests or Commit Message templates. So these best practices should be committed \(no pun intended\) to memory.
 
 ## Name your branches consistenly {#abstract-name}
 
-When branching from the UI Kit’s Master branch, you should use one of the tags below as a prefix to your branch name. Doing this will let the rest of the team know what the purpose of the branch is and also and connect it with the associated stage of work.
+When branching from the UI Kit’s Master branch, you should use one of the tags below as a prefix to your branch name. Doing this will let the rest of the team know what the purpose of the branch is and also what stage of work it is in.
 
-### **UPDATE** {#branch-naming-update}
+### **UPDATE -** prefix {#branch-naming-update}
 
-The UPDATE prefix should be used when you are fixing or updating an existing component that is already part of the UI Kit.
+The UPDATE prefix should be used when you are fixing or updating an existing component that is _already part of the UI Kit_.
 
 **Do** use the UPDATE tag when:
 
@@ -30,7 +30,7 @@ The UPDATE prefix should be used when you are fixing or updating an existing com
 
 * Adding a _new_ type of button that doesn't currently exist - use BETA instead.
 
-### **BETA** {#branch-naming-beta}
+### **BETA -** prefix {#branch-naming-beta}
 
 The BETA prefix should be used if you are experimenting with completely new components for the UI Kit, or proposing a new change to existing components.
 
@@ -43,7 +43,7 @@ The BETA prefix should be used if you are experimenting with completely new comp
 
 * Adjusting the padding in an existing symbol to fit with the rest of our components - use UPDATE instead.
 
-### **PITCH** {#branch-naming-pitch}
+### **PITCH -** prefix {#branch-naming-pitch}
 
 The PITCH prefix should be used when preparing visuals for the pitch process.
 
@@ -57,9 +57,9 @@ Using Abstract’s built in status control is a great way to communicate to the 
 
 ![](/assets/branch-statuses.png)
 
-1. **Work in Progress - **Set this status when you are actively working on your branch and you don’t need any feedback on your work from the rest of the team. Newly created branches will have this status set by default.
-2. **Open for Feedback - **Set this status when you are done your initial build process and you’d like to get feedback from the rest of the team on your work.
-3. **Ready for Review - **When you’ve resolved the feedback on your branch and you’re ready to merge it back to the master UI Kit, use this status. Lead designers should pay special attention to branches in this status and ensure that nothing in them will cause issues with the other items in the UI Kit.
+1. **Work in Progress -** Set this status when you are actively working on your branch and you don’t need any feedback on your work from the rest of the team. Newly created branches will have this status set by default.
+2. **Open for Feedback -** Set this status when you are done your initial build process and you’d like to get feedback from the rest of the team on your work.
+3. **Ready for Review -** When you’ve resolved the feedback on your branch and you’re ready to merge it back to the master UI Kit, use this status. Lead designers should pay special attention to branches in this status and ensure that nothing in them will cause issues with the other items in the UI Kit.
 
 ---
 
