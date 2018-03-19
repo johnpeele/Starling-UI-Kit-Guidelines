@@ -9,7 +9,7 @@ search:
 
 These are the guidelines and best practices for using Sketch in general, but more specifically for contributing to the UI Kit.
 
-## Naming conventions {#sketch-naming}
+## Name your files consistently {#sketch-naming}
 
 Even though Abstract negates the need for any kind of versioning info in our file names, we still need a nice flexible naming pattern. The _general guideline_ here is to make sure a teammate can easily understand your work by reading the file name.
 
