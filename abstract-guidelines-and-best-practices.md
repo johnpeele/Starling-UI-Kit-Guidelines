@@ -2,14 +2,16 @@
 
 These are the guidelines and best practices for using Abstract in general, but more specifically for contributing to the UI Kit.
 
-## Version Control best practice {#abstract-best-practices}
+At it's core, Abstract is a version control system \(VCS\) for design files. The nature and file structure of a `.sketch` file creates a workflow that is similar to traditional VCS flows, but it also brings some new concepts to the table that we must be aware of.
+
+## Version Control best practices {#abstract-best-practices}
 
 1. Commit related changes - A commit should be a wrapper for related changes. Small commits make it easier for other team members to understand the changes and roll them back if something went wrong.
 2. Commit often - Committing often keeps your commits small and, again, helps you commit only related changes. Moreover, it allows you to share your work more frequently with the team.
-3. Write good commit messages - Abstract requires a summary description for every commit (up to 72 characters). Be sure to use the "Optional details" area to add detailed information for your commit, use Markdown for emphasis and clarity.
+3. Write good commit messages - Abstract requires a summary description for every commit \(up to 72 characters\). Be sure to use the "Optional details" area to add detailed information for your commit, use Markdown for emphasis and clarity.
 4. Use branches - Branches are perfect for helping you seperate your thought processes as you work. You should use branches for experimenting with new ideas while keeping your core work protected. You can create branches off of existing branches, so go wild!
 
-> Unlike Github, Abstract doesn't give us a mehtod to handle either Pull Requests or Commit Message templates. So these best practices should be committed (no pun intended) to memory.
+> Unlike Github, Abstract doesn't give us a mehtod to handle either Pull Requests or Commit Message templates. So these best practices should be committed \(no pun intended\) to memory.
 
 ## Name your branches consistenly {#abstract-name}
 
