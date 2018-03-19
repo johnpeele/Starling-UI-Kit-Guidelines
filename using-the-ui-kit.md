@@ -17,7 +17,7 @@ Abstract manages all aspects of Libraries for us. Libraries are linked at the pr
 5. Choose **Starling UI Kit.sketch** from the list of library files<br>
 _**Note:** The **Starling UI Kit.sketch** Library already has all of the other Library files linked to it. Inception! Choosing this Library file will automatically bring the other Libraries along for the ride._
 6. Select **Link Library** at the bottom
-7. Once you have linked the libraries you want to use in your project, open your project sketch file through abstract the normal way. You should see the libraries avaialable to you under the the large "Insert" option in the upper left of Sketch.
+7. Once you have linked the libraries you want to use in your project, open your project `.sketch` file through Abstract the normal way. You should see the libraries available to you under the the "Insert" menu of Sketch.
 
 {% raw %}
  <video id="video-abstract-link-library" class="video-js" controls preload="auto" width="640" height="264" data-setup="{}">

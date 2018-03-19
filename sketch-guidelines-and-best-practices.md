@@ -105,7 +105,7 @@ You need to ensure that you include all the variations of your new component so 
 
 ### **Master symbols** {#sketch-symbols-master}
 
-When building these different states, consider using a Master symbol that allows users to easily apply different states to your component. A Master symbol is a parent symbol containing multiple Nested symbols, each Nested symbol represents a state of the Master symbol. Read the inspiration article by Andrew Couldwell for further instruction and an example .sketch file.
+When building these different states, consider using a Master symbol that allows users to easily apply different states to your component. A Master symbol is a parent symbol containing multiple Nested symbols, each Nested symbol represents a state of the Master symbol. Read the [inspiration article by Andrew Couldwell](https://medium.com/@andrewcouldwell/harness-the-power-of-symbols-204448baaef3) for further instruction and an example `.sketch` file.
 
 ### **Symbol overrides** {#sketch-symbols-overrides}
 
