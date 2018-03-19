@@ -8,11 +8,11 @@ We have identified a set of mandatory and optional plugins that will make workin
 Quickly change the label for a button and update dimensions without affecting padding.
 
 [Craft Library](https://www.invisionapp.com/craft)
-We will use Craft Library, for the time being, for layer and text styles, but we are currently evaluating it’s future usage with the UI Kit.
+We will use Craft Library, for the time being, for layer and text styles, but we are currently evaluating it’s future usage with the UI Kit.<br>
 _**Note:** JP is currently experimenting with a plugin called _[_Style Libraries_](https://github.com/sigtm/sketch-style-libraries)_ that could easily replace Craft Library functionality._
 
 [Stark](http://www.getstark.co/)
-Easily apply color blindness filters to your designs and check contrast between 2 colors.
+Easily apply color blindness filters to your designs and check contrast between 2 colors.<br>
 _**Note: **Feel free to use any contrast checker. The requirement here is that you use some kind of contrast tool._
 
 ## Mandatory for contributing {#sketch-plugins-mandatory-contributing}
