@@ -2,9 +2,18 @@
 
 These are the guidelines and best practices for using Abstract in general, but more specifically for contributing to the UI Kit.
 
+## Version Control best practice {#abstract-best-practices}
+
+1. Commit related changes - A commit should be a wrapper for related changes. Small commits make it easier for other team members to understand the changes and roll them back if something went wrong.
+2. Commit often - Committing often keeps your commits small and, again, helps you commit only related changes. Moreover, it allows you to share your work more frequently with the team.
+3. Write good commit messages - Abstract requires a summary description for every commit (up to 72 characters). Be sure to use the "Optional details" area to add detailed information for your commit, use Markdown for emphasis and clarity.
+4. Use branches - Branches are perfect for helping you seperate your thought processes as you work. You should use branches for experimenting with new ideas while keeping your core work protected. You can create branches off of existing branches, so go wild!
+
+> Unlike Github, Abstract doesn't give us a mehtod to handle either Pull Requests or Commit Message templates. So these best practices should be committed (no pun intended) to memory.
+
 ## Name your branches consistenly {#abstract-name}
 
-When branching from the UI Kit’s master branch, you should use one of the tags below as a prefix to your branch name. Doing this will let the rest of the team know what the purpose of the branch is and also and connect it with the associated stage of work.
+When branching from the UI Kit’s Master branch, you should use one of the tags below as a prefix to your branch name. Doing this will let the rest of the team know what the purpose of the branch is and also and connect it with the associated stage of work.
 
 ### **UPDATE** {#branch-naming-update}
 
@@ -46,15 +55,9 @@ Using Abstract’s built in status control is a great way to communicate to the 
 
 ![](/assets/branch-statuses.png)
 
-1. **Work in Progress - **Set this status when you are actively working on your branch and you don’t need any feedback on your work from the rest of the team. Newly created branches will have this status by default.
+1. **Work in Progress - **Set this status when you are actively working on your branch and you don’t need any feedback on your work from the rest of the team. Newly created branches will have this status set by default.
 2. **Open for Feedback - **Set this status when you are done your initial build process and you’d like to get feedback from the rest of the team on your work.
 3. **Ready for Review - **When you’ve resolved the feedback on your branch and you’re ready to merge it back to the master UI Kit, use this status. Lead designers should pay special attention to branches in this status and ensure that nothing in them will cause issues with the other items in the UI Kit.
-
----
-
-## Commit often {#abstract-commit}
-
-Unlike Github, we don’t have ways to handle either Pull Requests or Commit message templates.
 
 ---
 
@@ -68,7 +71,7 @@ Ideally, commenting should be kept as close to the thing be commented on as poss
 
 This isn’t a hard and fast rule - If it makes more sense to discuss a branch in slack or in invision,  then that should be done. But the name of the branch should be referenced, to help find that feedback later on.
 
-\*_Please note that while abstract has a web based browser, you need an abstract account to view and comment using the browser._
+_**Note:** While Abstract does have a web based view, you need an Abstract account to view and comment using the browser._
 
 ---
 
