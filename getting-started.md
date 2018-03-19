@@ -1,6 +1,6 @@
 # Getting Started
 
-Getting the UI Kit integrated into your design workflow is relatively simple.The first step is preparing your environment, which only has to be done once.
+Getting the UI Kit integrated into your design workflow is relatively simple. The first step is preparing your environment, which only has to be done once.
 
 ## Preparing your Environment
 
@@ -19,6 +19,8 @@ Getting the UI Kit integrated into your design workflow is relatively simple.The
       1. [Relabel Button](https://github.com/kenmoore/sketch-relabel-button) - Same as above...
       2. [Symbol Organizer](https://github.com/sonburn/symbol-organizer) - This is used to automatically organize all the symbols in the UI Kit. This should be run as part of your commit process when updating the UI Kit.
       3. [Artboard Manager](https://github.com/bomberstudios/artboard-manager) - This is used to automatically preserver the order and spacing between artboards in order to match the Table of Contents in the UI Kit.
+
+---
 
 It's best to install **all of the above** since these are the minimum required plugins and programs for using, and contributing to, the UI Kit. We've also included suggestions for other plugins that will help you design under the [Sketch Plugins](/sketch-plugins.md) section.
 
