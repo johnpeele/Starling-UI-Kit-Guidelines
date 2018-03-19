@@ -1,6 +1,6 @@
 # Starling UI Kit Guidelines {#starling-ui-kit-guidelines}
 
-Everything about the Starling UI Kit is crafted so our designers spend less time creating and re-creating our system styles & components, constantly asking "Do we have an example of XYZ component?", and more time focussing on user experience, iteration, and building the best versions of our products that we can. All in the interest of consistency and efficiency.
+Everything about the Starling UI Kit is crafted so our designers spend less time creating and re-creating our system styles & components, constantly asking _Do we have an example of XYZ component?_, and more time focussing on user experience, iteration, and building the best versions of our products that we can. All in the interest of consistency and efficiency.
 
 The Starling UI Kit provides designers with a collection of standard components that are part of ACL-UI, the shared library of coded components that provides the frontend experience for ACL's customers.
 
