@@ -13,10 +13,9 @@ Abstract manages all aspects of Libraries for us. Libraries are linked at the pr
 1. Open your project
 2. View project files for any branch or `master`
 3. Select **Add File **&gt; **Link Library…**
-4. Choose **Starling Design System** from the list of projects
-5. Choose **Starling UI Kit.sketch** from the list of library files<br>
-_**Note:** The **Starling UI Kit.sketch** Library already has all of the other Library files linked to it. Inception! Choosing this Library file will automatically bring the other Libraries along for the ride._
-6. Select **Link Library** at the bottom
+4. Select **Starling Design System** from the list of projects
+5. Select **All** of the library files from the list on the right<br>
+6. Select **Link Libraries** at the bottom
 7. Once you have linked the libraries you want to use in your project, open your project `.sketch` file through Abstract the normal way. You should see the libraries available to you under the **Insert** menu of Sketch.
 
 {% raw %}
@@ -33,15 +32,11 @@ _**Note:** The **Starling UI Kit.sketch** Library already has all of the other L
 
 The UI Kit is actually separated into several different libraries, each with a specific function. You can link the individual Library files \(prefixed with "_Library -"_\) using the same linking method described above.
 
-Just remember, if you want to link all the Libraries, then you only have to link the `Starling UI Kit.sketch` Library file.
-
 #### Available Libraries:
 
 * **Starling UI Kit** - This is the **primary** Library file and should be linked in all of your projects. This will allow you access to common UI Components such as: tabs, buttons, form fields, etc.
-_**Note:** Each of the Libraries below are already linked to Starling UI Kit Library._
-   * **Library - Icons** - This Library contains all icons easily available to the developers through ACL-UI.
-   * **Library - Variables** - This Library contains all colours, borders and other miscellaneous variables available through ACL-UI.
-   * **Library - Navigation** - This Library contains common navigational design patterns in use throughout GRC, such as the sidepanel, left hand navigation panel, etc.
+* **Library - Variables** - This Library contains all colours, borders and other miscellaneous variables available through ACL-UI.
+* **Library - Icons** - This Library contains all icons easily available to the developers through ACL-UI.
 
 ---
 
